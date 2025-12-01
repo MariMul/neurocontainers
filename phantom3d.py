@@ -1,4 +1,4 @@
-# Adaptet from MATLAB phantom3d.m by Jeff Fessler https://de.mathworks.com/matlabcentral/fileexchange/9416-3d-shepp-logan-phantom
+# Adaptet from MATLAB by Matthias Schabel https://de.mathworks.com/matlabcentral/fileexchange/9416-3d-shepp-logan-phantom
 
 import numpy as np
 
